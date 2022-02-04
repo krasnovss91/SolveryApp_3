@@ -30,5 +30,5 @@ class MainActivity : AppCompatActivity() {
                 toast.show()
             }
         })
-    }
+    }//http://developer.alexanderklimov.ru/android/fragment2.php
 }
